@@ -12,4 +12,17 @@ main {
   flex: auto;
   padding: 1em;
   gap: 1em;
+.logo {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #4CAF50;
+}
+
+article {
+  background-color: #f0f8ff;
+  padding: 20px;
+  color: #333;
+  font-family: 'Segoe UI', sans-serif;
+  border-radius: 8px;
+}
 
